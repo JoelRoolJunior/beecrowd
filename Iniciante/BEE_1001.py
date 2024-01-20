@@ -17,8 +17,8 @@ x = a+b
 print("X = ",x)
 
 ###### O QUE EU ENVIEI ######
-a = int(input())
-b = int(input())
-x = a+b
+# a = int(input())
+# b = int(input())
+# x = a+b
 
-print("X = {}\n".format(x))
+# print('X =',x)
